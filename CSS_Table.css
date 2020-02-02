@@ -1,0 +1,24 @@
+html{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+}
+table{
+    border: 1px solid silver;
+}
+
+td:hover{
+    background-color: aquamarine;
+    color:black;
+}
+
+tr, th{
+    background-color: cadetblue;
+    color: white;
+}
+
+tr, td{
+    background-color: chartreuse;
+    color:darkmagenta;
+}
